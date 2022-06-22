@@ -3,7 +3,7 @@
 package document
 
 import (
-	internaldocument "github.com/aws/aws-sdk-go-v2/service/gamesparks/internal/document"
+	internaldocument "github.com/Qualstor/aws-sdk-go-v2/service/gamesparks/internal/document"
 )
 
 // Interface defines a document which is a protocol-agnostic type which supports a

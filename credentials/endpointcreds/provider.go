@@ -34,8 +34,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/credentials/endpointcreds/internal/client"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/credentials/endpointcreds/internal/client"
 	"github.com/aws/smithy-go/middleware"
 )
 

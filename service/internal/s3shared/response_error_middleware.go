@@ -3,8 +3,8 @@ package s3shared
 import (
 	"context"
 
-	awsmiddleware "github.com/aws/aws-sdk-go-v2/aws/middleware"
-	awshttp "github.com/aws/aws-sdk-go-v2/aws/transport/http"
+	awsmiddleware "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
+	awshttp "github.com/Qualstor/aws-sdk-go-v2/aws/transport/http"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )

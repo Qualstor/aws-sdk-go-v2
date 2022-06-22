@@ -5,7 +5,7 @@ package proton
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/proton/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/proton/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )
