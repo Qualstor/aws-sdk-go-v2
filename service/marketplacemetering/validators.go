@@ -5,7 +5,7 @@ package marketplacemetering
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/marketplacemetering/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/marketplacemetering/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

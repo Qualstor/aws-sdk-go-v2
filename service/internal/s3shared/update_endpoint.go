@@ -8,7 +8,7 @@ import (
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 
-	awsmiddle "github.com/aws/aws-sdk-go-v2/aws/middleware"
+	awsmiddle "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
 )
 
 // EnableDualstack represents middleware struct for enabling dualstack support
