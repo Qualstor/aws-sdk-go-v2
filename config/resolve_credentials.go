@@ -6,16 +6,16 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/credentials"
-	"github.com/aws/aws-sdk-go-v2/credentials/ec2rolecreds"
-	"github.com/aws/aws-sdk-go-v2/credentials/endpointcreds"
-	"github.com/aws/aws-sdk-go-v2/credentials/processcreds"
-	"github.com/aws/aws-sdk-go-v2/credentials/ssocreds"
-	"github.com/aws/aws-sdk-go-v2/credentials/stscreds"
-	"github.com/aws/aws-sdk-go-v2/feature/ec2/imds"
-	"github.com/aws/aws-sdk-go-v2/service/sso"
-	"github.com/aws/aws-sdk-go-v2/service/sts"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/credentials"
+	"github.com/Qualstor/aws-sdk-go-v2/credentials/ec2rolecreds"
+	"github.com/Qualstor/aws-sdk-go-v2/credentials/endpointcreds"
+	"github.com/Qualstor/aws-sdk-go-v2/credentials/processcreds"
+	"github.com/Qualstor/aws-sdk-go-v2/credentials/ssocreds"
+	"github.com/Qualstor/aws-sdk-go-v2/credentials/stscreds"
+	"github.com/Qualstor/aws-sdk-go-v2/feature/ec2/imds"
+	"github.com/Qualstor/aws-sdk-go-v2/service/sso"
+	"github.com/Qualstor/aws-sdk-go-v2/service/sts"
 )
 
 const (

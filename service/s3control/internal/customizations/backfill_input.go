@@ -6,7 +6,7 @@ import (
 
 	"github.com/aws/smithy-go/middleware"
 
-	"github.com/aws/aws-sdk-go-v2/service/internal/s3shared"
+	"github.com/Qualstor/aws-sdk-go-v2/service/internal/s3shared"
 )
 
 // BackfillInput validates and backfill's values from ARN into request serializable input.

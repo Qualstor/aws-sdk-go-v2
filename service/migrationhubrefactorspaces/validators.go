@@ -5,7 +5,7 @@ package migrationhubrefactorspaces
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/migrationhubrefactorspaces/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/migrationhubrefactorspaces/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

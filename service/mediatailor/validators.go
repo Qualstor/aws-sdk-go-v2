@@ -5,7 +5,7 @@ package mediatailor
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/mediatailor/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/mediatailor/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )
