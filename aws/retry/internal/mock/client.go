@@ -3,7 +3,7 @@ package mock
 import (
 	"context"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
 )
 
 // Options is a mock client Options

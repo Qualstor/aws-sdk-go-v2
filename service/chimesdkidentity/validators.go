@@ -5,7 +5,7 @@ package chimesdkidentity
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/chimesdkidentity/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/chimesdkidentity/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

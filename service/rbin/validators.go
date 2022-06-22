@@ -5,7 +5,7 @@ package rbin
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/rbin/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/rbin/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

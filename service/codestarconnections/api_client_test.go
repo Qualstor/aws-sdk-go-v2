@@ -4,7 +4,7 @@ package codestarconnections
 
 import (
 	"context"
-	"github.com/aws/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 	"io/ioutil"

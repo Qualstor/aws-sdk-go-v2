@@ -6,7 +6,7 @@ import (
 
 	"github.com/aws/smithy-go/middleware"
 
-	"github.com/aws/aws-sdk-go-v2/aws/arn"
+	"github.com/Qualstor/aws-sdk-go-v2/aws/arn"
 )
 
 // ARNLookup is the initial middleware that looks up if an arn is provided.
