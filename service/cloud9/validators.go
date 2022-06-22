@@ -5,7 +5,7 @@ package cloud9
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/cloud9/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/cloud9/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

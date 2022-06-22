@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	v4 "github.com/aws/aws-sdk-go-v2/aws/signer/v4"
+	v4 "github.com/Qualstor/aws-sdk-go-v2/aws/signer/v4"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )

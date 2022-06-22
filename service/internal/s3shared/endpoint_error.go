@@ -3,7 +3,7 @@ package s3shared
 import (
 	"fmt"
 
-	"github.com/aws/aws-sdk-go-v2/service/internal/s3shared/arn"
+	"github.com/Qualstor/aws-sdk-go-v2/service/internal/s3shared/arn"
 )
 
 // TODO: fix these error statements to be relevant to v2 sdk

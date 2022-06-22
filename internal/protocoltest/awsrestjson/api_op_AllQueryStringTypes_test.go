@@ -5,9 +5,9 @@ package awsrestjson
 import (
 	"bytes"
 	"context"
-	"github.com/aws/aws-sdk-go-v2/aws"
-	awshttp "github.com/aws/aws-sdk-go-v2/aws/transport/http"
-	"github.com/aws/aws-sdk-go-v2/internal/protocoltest/awsrestjson/types"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	awshttp "github.com/Qualstor/aws-sdk-go-v2/aws/transport/http"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/protocoltest/awsrestjson/types"
 	"github.com/aws/smithy-go/middleware"
 	"github.com/aws/smithy-go/ptr"
 	smithyrand "github.com/aws/smithy-go/rand"

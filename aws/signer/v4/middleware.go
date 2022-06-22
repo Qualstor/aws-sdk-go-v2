@@ -9,10 +9,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	awsmiddleware "github.com/aws/aws-sdk-go-v2/aws/middleware"
-	v4Internal "github.com/aws/aws-sdk-go-v2/aws/signer/internal/v4"
-	"github.com/aws/aws-sdk-go-v2/internal/sdk"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	awsmiddleware "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
+	v4Internal "github.com/Qualstor/aws-sdk-go-v2/aws/signer/internal/v4"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/sdk"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )

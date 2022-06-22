@@ -43,7 +43,7 @@
 
 # v1.9.0 (2022-02-24)
 
-* **Feature**: Adds support for `SourceIdentity` to `stscreds.AssumeRoleProvider` [#1588](https://github.com/aws/aws-sdk-go-v2/pull/1588). Fixes [#1575](https://github.com/aws/aws-sdk-go-v2/issues/1575)
+* **Feature**: Adds support for `SourceIdentity` to `stscreds.AssumeRoleProvider` [#1588](https://github.com/Qualstor/aws-sdk-go-v2/pull/1588). Fixes [#1575](https://github.com/Qualstor/aws-sdk-go-v2/issues/1575)
 * **Feature**: Updated `github.com/aws/smithy-go` to latest version
 * **Dependency Update**: Updated to the latest SDK module versions
 
@@ -102,7 +102,7 @@
 
 # v1.4.0 (2021-08-27)
 
-* **Feature**: Adds support for Tags and TransitiveTagKeys to stscreds.AssumeRoleProvider. Closes https://github.com/aws/aws-sdk-go-v2/issues/723
+* **Feature**: Adds support for Tags and TransitiveTagKeys to stscreds.AssumeRoleProvider. Closes https://github.com/Qualstor/aws-sdk-go-v2/issues/723
 * **Feature**: Updated `github.com/aws/smithy-go` to latest version
 * **Dependency Update**: Updated to the latest SDK module versions
 
@@ -123,7 +123,7 @@
 # v1.3.0 (2021-06-25)
 
 * **Feature**: Updated `github.com/aws/smithy-go` to latest version
-* **Bug Fix**: Fixed example usages of aws.CredentialsCache ([#1275](https://github.com/aws/aws-sdk-go-v2/pull/1275))
+* **Bug Fix**: Fixed example usages of aws.CredentialsCache ([#1275](https://github.com/Qualstor/aws-sdk-go-v2/pull/1275))
 * **Dependency Update**: Updated to the latest SDK module versions
 
 # v1.2.1 (2021-05-20)
