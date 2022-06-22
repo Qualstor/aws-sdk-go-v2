@@ -5,7 +5,7 @@ package networkfirewall
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/networkfirewall/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/networkfirewall/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

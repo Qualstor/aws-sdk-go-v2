@@ -5,7 +5,7 @@ package storagegateway
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/storagegateway/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/storagegateway/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

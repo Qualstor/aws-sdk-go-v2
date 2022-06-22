@@ -5,7 +5,7 @@ package eventbridge
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/eventbridge/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/eventbridge/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )
