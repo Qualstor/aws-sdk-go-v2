@@ -5,7 +5,7 @@ package backup
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/backup/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/backup/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

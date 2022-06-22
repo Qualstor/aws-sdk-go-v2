@@ -4,7 +4,7 @@ package types_test
 
 import (
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/kinesis/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/kinesis/types"
 )
 
 func ExampleSubscribeToShardEventStream_outputUsage() {

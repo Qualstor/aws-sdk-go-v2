@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/feature/ec2/imds"
-	"github.com/aws/aws-sdk-go-v2/internal/ini"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/feature/ec2/imds"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/ini"
 	"github.com/aws/smithy-go/logging"
 	"github.com/aws/smithy-go/ptr"
 	"github.com/google/go-cmp/cmp"

@@ -5,7 +5,7 @@ package panorama
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/panorama/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/panorama/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

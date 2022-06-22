@@ -9,9 +9,9 @@ import (
 	"github.com/aws/smithy-go/middleware"
 	"github.com/aws/smithy-go/transport/http"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting/unit"
-	"github.com/aws/aws-sdk-go-v2/service/route53"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting/unit"
+	"github.com/Qualstor/aws-sdk-go-v2/service/route53"
 )
 
 func TestSanitizeURLMiddleware(t *testing.T) {

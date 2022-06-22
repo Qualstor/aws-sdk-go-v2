@@ -7,10 +7,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting/unit"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting/unit"
 
-	"github.com/aws/aws-sdk-go-v2/service/s3"
+	"github.com/Qualstor/aws-sdk-go-v2/service/s3"
 )
 
 type EndpointResolverFunc func(region string, options s3.EndpointResolverOptions) (aws.Endpoint, error)

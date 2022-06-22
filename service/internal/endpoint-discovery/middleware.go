@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	awsmiddleware "github.com/aws/aws-sdk-go-v2/aws/middleware"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	awsmiddleware "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 
 	"github.com/aws/smithy-go/logging"

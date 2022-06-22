@@ -4,15 +4,15 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/feature/ec2/imds/internal/config"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/feature/ec2/imds/internal/config"
 	"io/ioutil"
 	"net/http"
 	"os"
 	"strings"
 	"testing"
 
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )
 
