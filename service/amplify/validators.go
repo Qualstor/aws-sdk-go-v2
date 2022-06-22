@@ -5,7 +5,7 @@ package amplify
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/amplify/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/amplify/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

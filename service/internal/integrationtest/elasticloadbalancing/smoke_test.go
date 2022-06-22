@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	elb "github.com/aws/aws-sdk-go-v2/service/elasticloadbalancing"
+	elb "github.com/Qualstor/aws-sdk-go-v2/service/elasticloadbalancing"
 	"github.com/aws/smithy-go"
 
-	"github.com/aws/aws-sdk-go-v2/service/internal/integrationtest"
+	"github.com/Qualstor/aws-sdk-go-v2/service/internal/integrationtest"
 )
 
 func TestInteg_00_DescribeLoadBalancers(t *testing.T) {

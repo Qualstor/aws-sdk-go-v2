@@ -5,7 +5,7 @@ package transfer
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/transfer/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/transfer/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )
