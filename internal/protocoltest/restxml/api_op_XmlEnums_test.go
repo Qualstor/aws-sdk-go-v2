@@ -5,9 +5,9 @@ package restxml
 import (
 	"bytes"
 	"context"
-	"github.com/aws/aws-sdk-go-v2/aws"
-	awshttp "github.com/aws/aws-sdk-go-v2/aws/transport/http"
-	"github.com/aws/aws-sdk-go-v2/internal/protocoltest/restxml/types"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	awshttp "github.com/Qualstor/aws-sdk-go-v2/aws/transport/http"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/protocoltest/restxml/types"
 	smithydocument "github.com/aws/smithy-go/document"
 	"github.com/aws/smithy-go/middleware"
 	smithyrand "github.com/aws/smithy-go/rand"

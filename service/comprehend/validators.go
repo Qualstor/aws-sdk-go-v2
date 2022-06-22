@@ -5,7 +5,7 @@ package comprehend
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/comprehend/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/comprehend/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

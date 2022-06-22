@@ -5,7 +5,7 @@ package elasticsearchservice
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/elasticsearchservice/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/elasticsearchservice/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

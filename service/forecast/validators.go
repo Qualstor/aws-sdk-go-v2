@@ -5,7 +5,7 @@ package forecast
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/forecast/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/forecast/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

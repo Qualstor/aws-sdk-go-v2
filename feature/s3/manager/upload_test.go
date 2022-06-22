@@ -16,14 +16,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/aws/retry"
-	"github.com/aws/aws-sdk-go-v2/feature/s3/manager"
-	s3testing "github.com/aws/aws-sdk-go-v2/feature/s3/manager/internal/testing"
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting"
-	"github.com/aws/aws-sdk-go-v2/internal/sdk"
-	"github.com/aws/aws-sdk-go-v2/service/s3"
-	"github.com/aws/aws-sdk-go-v2/service/s3/types"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/aws/retry"
+	"github.com/Qualstor/aws-sdk-go-v2/feature/s3/manager"
+	s3testing "github.com/Qualstor/aws-sdk-go-v2/feature/s3/manager/internal/testing"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/sdk"
+	"github.com/Qualstor/aws-sdk-go-v2/service/s3"
+	"github.com/Qualstor/aws-sdk-go-v2/service/s3/types"
 	"github.com/google/go-cmp/cmp"
 )
 
