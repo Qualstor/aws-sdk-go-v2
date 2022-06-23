@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
-	github.com/Qualstor/aws-sdk-go-v2/credentials v1.12.6
+	github.com/Qualstor/aws-sdk-go-v2/credentials v1.12.8
 	github.com/Qualstor/aws-sdk-go-v2/feature/ec2/imds v1.12.6
 	github.com/Qualstor/aws-sdk-go-v2/internal/ini v1.3.13
 	github.com/Qualstor/aws-sdk-go-v2/service/sso v1.11.9
