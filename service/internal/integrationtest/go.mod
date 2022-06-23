@@ -1,8 +1,8 @@
 module github.com/Qualstor/aws-sdk-go-v2/service/internal/integrationtest
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
-	github.com/Qualstor/aws-sdk-go-v2/config v1.15.11
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.16
+	github.com/Qualstor/aws-sdk-go-v2/config v1.15.16
 	github.com/Qualstor/aws-sdk-go-v2/service/acm v1.14.6
 	github.com/Qualstor/aws-sdk-go-v2/service/apigateway v1.15.7
 	github.com/Qualstor/aws-sdk-go-v2/service/applicationautoscaling v1.15.6
@@ -66,7 +66,7 @@ require (
 	github.com/Qualstor/aws-sdk-go-v2/service/route53 v1.21.1
 	github.com/Qualstor/aws-sdk-go-v2/service/route53domains v1.12.6
 	github.com/Qualstor/aws-sdk-go-v2/service/route53resolver v1.15.7
-	github.com/Qualstor/aws-sdk-go-v2/service/s3 v1.26.11
+	github.com/Qualstor/aws-sdk-go-v2/service/s3 v1.26.14
 	github.com/Qualstor/aws-sdk-go-v2/service/s3control v1.21.7
 	github.com/Qualstor/aws-sdk-go-v2/service/secretsmanager v1.15.11
 	github.com/Qualstor/aws-sdk-go-v2/service/servicecatalog v1.14.5
@@ -78,7 +78,7 @@ require (
 	github.com/Qualstor/aws-sdk-go-v2/service/sns v1.17.7
 	github.com/Qualstor/aws-sdk-go-v2/service/sqs v1.18.6
 	github.com/Qualstor/aws-sdk-go-v2/service/ssm v1.27.2
-	github.com/Qualstor/aws-sdk-go-v2/service/sts v1.16.7
+	github.com/Qualstor/aws-sdk-go-v2/service/sts v1.16.10
 	github.com/Qualstor/aws-sdk-go-v2/service/support v1.13.6
 	github.com/Qualstor/aws-sdk-go-v2/service/timestreamwrite v1.13.6
 	github.com/Qualstor/aws-sdk-go-v2/service/transcribestreaming v1.6.8
