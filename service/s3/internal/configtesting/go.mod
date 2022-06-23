@@ -3,8 +3,8 @@ module github.com/Qualstor/aws-sdk-go-v2/service/s3/internal/configtesting
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2/config v1.15.12
-	github.com/Qualstor/aws-sdk-go-v2/service/internal/s3shared v1.13.7
+	github.com/Qualstor/aws-sdk-go-v2/config v1.15.14
+	github.com/Qualstor/aws-sdk-go-v2/service/internal/s3shared v1.13.8
 )
 
 replace github.com/Qualstor/aws-sdk-go-v2 => ../../../../

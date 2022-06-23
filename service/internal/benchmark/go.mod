@@ -3,10 +3,10 @@ module github.com/Qualstor/aws-sdk-go-v2/service/internal/benchmark
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.14
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
 	github.com/Qualstor/aws-sdk-go-v2/service/dynamodb v1.15.7
 	github.com/Qualstor/aws-sdk-go-v2/service/lexruntimeservice v1.12.6
-	github.com/Qualstor/aws-sdk-go-v2/service/s3 v1.26.11
+	github.com/Qualstor/aws-sdk-go-v2/service/s3 v1.26.13
 	github.com/Qualstor/aws-sdk-go-v2/service/schemas v1.14.6
 	github.com/aws/aws-sdk-go v1.44.28
 	github.com/aws/smithy-go v1.11.3
