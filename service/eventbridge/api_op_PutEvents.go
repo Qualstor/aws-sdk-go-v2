@@ -4,10 +4,10 @@ package eventbridge
 
 import (
 	"context"
-	awsmiddleware "github.com/aws/aws-sdk-go-v2/aws/middleware"
-	"github.com/aws/aws-sdk-go-v2/aws/signer/v4"
-	ebcust "github.com/aws/aws-sdk-go-v2/service/eventbridge/internal/customizations"
-	"github.com/aws/aws-sdk-go-v2/service/eventbridge/types"
+	awsmiddleware "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
+	"github.com/Qualstor/aws-sdk-go-v2/aws/signer/v4"
+	ebcust "github.com/Qualstor/aws-sdk-go-v2/service/eventbridge/internal/customizations"
+	"github.com/Qualstor/aws-sdk-go-v2/service/eventbridge/types"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )

@@ -5,7 +5,7 @@ package lambda
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/lambda/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/lambda/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

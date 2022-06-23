@@ -4,9 +4,9 @@ package ec2
 
 import (
 	"context"
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting/unit"
-	presignedurlcust "github.com/aws/aws-sdk-go-v2/service/internal/presigned-url"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting/unit"
+	presignedurlcust "github.com/Qualstor/aws-sdk-go-v2/service/internal/presigned-url"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 	"net/http"

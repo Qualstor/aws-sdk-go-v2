@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/internal/rand"
-	"github.com/aws/aws-sdk-go-v2/internal/sdk"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/rand"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/sdk"
 	"github.com/aws/smithy-go/logging"
 	"github.com/aws/smithy-go/middleware"
 	smithyrand "github.com/aws/smithy-go/rand"

@@ -2,7 +2,7 @@ package configsources
 
 import (
 	"context"
-	"github.com/aws/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
 )
 
 // EnableEndpointDiscoveryProvider is an interface for retrieving external configuration value

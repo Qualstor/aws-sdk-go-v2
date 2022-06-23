@@ -5,7 +5,7 @@ package securityhub
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/securityhub/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/securityhub/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

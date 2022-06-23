@@ -4,7 +4,7 @@ package types_test
 
 import (
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/appmesh/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/appmesh/types"
 )
 
 func ExampleAccessLog_outputUsage() {
