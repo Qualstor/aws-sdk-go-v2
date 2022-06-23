@@ -3,7 +3,7 @@ module github.com/Qualstor/aws-sdk-go-v2/feature/dynamodbstreams/attributevalue
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.5
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
 	github.com/Qualstor/aws-sdk-go-v2/service/dynamodb v1.15.6
 	github.com/Qualstor/aws-sdk-go-v2/service/dynamodbstreams v1.13.6
 	github.com/aws/smithy-go v1.11.3
