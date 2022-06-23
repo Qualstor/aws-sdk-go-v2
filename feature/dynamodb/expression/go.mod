@@ -3,7 +3,7 @@ module github.com/Qualstor/aws-sdk-go-v2/feature/dynamodb/expression
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.14
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
 	github.com/Qualstor/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.9.3
 	github.com/Qualstor/aws-sdk-go-v2/service/dynamodb v1.15.6
 	github.com/google/go-cmp v0.5.8
