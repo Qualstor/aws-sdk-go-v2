@@ -308,7 +308,7 @@
   * **Feature**: In this release, we are introducing support for Amazon Elastic Container Service, Amazon Route 53, AWS Elastic Disaster Recovery, AWS Backup in addition to the existing supported Services.  This release also supports Terraform file input from S3 and scheduling daily assessments
 * `github.com/Qualstor/aws-sdk-go-v2/service/servicecatalog`: [v1.14.2](service/servicecatalog/CHANGELOG.md#v1142-2022-05-16)
   * **Documentation**: Updated the descriptions for the ListAcceptedPortfolioShares API description and the PortfolioShareType parameters.
-* `github.com/Qualstor/aws-sdk-go-v2/service/sts`: [v1.16.5](service/sts/CHANGELOG.md#v1165-2022-05-16)
+* `github.com/Qualstor/aws-sdk-go-v2/service/sts`: [v1.16.13](service/sts/CHANGELOG.md#v1165-2022-05-16)
   * **Documentation**: Documentation updates for AWS Security Token Service.
 * `github.com/Qualstor/aws-sdk-go-v2/service/workspacesweb`: [v1.6.0](service/workspacesweb/CHANGELOG.md#v160-2022-05-16)
   * **Feature**: Amazon WorkSpaces Web now supports Administrator timeout control

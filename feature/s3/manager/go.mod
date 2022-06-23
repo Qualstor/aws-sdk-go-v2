@@ -3,9 +3,9 @@ module github.com/Qualstor/aws-sdk-go-v2/feature/s3/manager
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.5
-	github.com/Qualstor/aws-sdk-go-v2/config v1.15.11
-	github.com/Qualstor/aws-sdk-go-v2/service/s3 v1.26.11
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.14
+	github.com/Qualstor/aws-sdk-go-v2/config v1.15.12
+	github.com/Qualstor/aws-sdk-go-v2/service/s3 v1.26.12
 	github.com/aws/smithy-go v1.11.3
 	github.com/google/go-cmp v0.5.8
 )
