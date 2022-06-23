@@ -5,7 +5,7 @@ package redshiftserverless
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/redshiftserverless/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/redshiftserverless/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

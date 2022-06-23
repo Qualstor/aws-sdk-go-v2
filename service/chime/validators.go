@@ -5,7 +5,7 @@ package chime
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/chime/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/chime/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

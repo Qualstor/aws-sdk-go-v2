@@ -5,7 +5,7 @@ package autoscalingplans
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/autoscalingplans/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/autoscalingplans/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )
