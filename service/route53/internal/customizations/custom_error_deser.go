@@ -15,8 +15,8 @@ import (
 	"github.com/aws/smithy-go/ptr"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 
-	awsmiddle "github.com/aws/aws-sdk-go-v2/aws/middleware"
-	"github.com/aws/aws-sdk-go-v2/service/route53/types"
+	awsmiddle "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
+	"github.com/Qualstor/aws-sdk-go-v2/service/route53/types"
 )
 
 // HandleCustomErrorDeserialization check if Route53 response is an error and needs

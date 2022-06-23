@@ -14,12 +14,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/aws/aws-sdk-go-v2/config"
-	"github.com/aws/aws-sdk-go-v2/feature/s3/manager"
-	"github.com/aws/aws-sdk-go-v2/feature/s3/manager/internal/integration"
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting"
-	"github.com/aws/aws-sdk-go-v2/internal/sdkio"
-	"github.com/aws/aws-sdk-go-v2/service/s3"
+	"github.com/Qualstor/aws-sdk-go-v2/config"
+	"github.com/Qualstor/aws-sdk-go-v2/feature/s3/manager"
+	"github.com/Qualstor/aws-sdk-go-v2/feature/s3/manager/internal/integration"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/sdkio"
+	"github.com/Qualstor/aws-sdk-go-v2/service/s3"
 )
 
 func newUploader(clientConfig ClientConfig, sdkConfig SDKConfig) *manager.Uploader {

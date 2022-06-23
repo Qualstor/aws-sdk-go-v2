@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/aws/aws-sdk-go-v2/feature/dynamodbstreams/attributevalue"
-	"github.com/aws/aws-sdk-go-v2/internal/awsutil"
-	"github.com/aws/aws-sdk-go-v2/service/dynamodbstreams/types"
+	"github.com/Qualstor/aws-sdk-go-v2/feature/dynamodbstreams/attributevalue"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awsutil"
+	"github.com/Qualstor/aws-sdk-go-v2/service/dynamodbstreams/types"
 )
 
 func ExampleMarshal() {

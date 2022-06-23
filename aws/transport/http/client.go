@@ -2,7 +2,7 @@ package http
 
 import (
 	"crypto/tls"
-	"github.com/aws/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
 	"net"
 	"net/http"
 	"reflect"

@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting/unit"
-	smithyClient "github.com/aws/aws-sdk-go-v2/service/lexruntimeservice"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting/unit"
+	smithyClient "github.com/Qualstor/aws-sdk-go-v2/service/lexruntimeservice"
 	v1Aws "github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/corehandlers"
 	v1Creds "github.com/aws/aws-sdk-go/aws/credentials"

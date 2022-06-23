@@ -1,7 +1,7 @@
 package retry
 
 import (
-	awsmiddle "github.com/aws/aws-sdk-go-v2/aws/middleware"
+	awsmiddle "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
 	"github.com/aws/smithy-go/middleware"
 )
 

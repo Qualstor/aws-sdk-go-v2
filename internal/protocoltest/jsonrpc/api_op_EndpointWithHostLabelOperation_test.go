@@ -5,8 +5,8 @@ package jsonrpc
 import (
 	"bytes"
 	"context"
-	"github.com/aws/aws-sdk-go-v2/aws"
-	awshttp "github.com/aws/aws-sdk-go-v2/aws/transport/http"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	awshttp "github.com/Qualstor/aws-sdk-go-v2/aws/transport/http"
 	"github.com/aws/smithy-go/middleware"
 	"github.com/aws/smithy-go/ptr"
 	smithytesting "github.com/aws/smithy-go/testing"

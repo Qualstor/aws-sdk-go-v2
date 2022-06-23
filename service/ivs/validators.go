@@ -5,7 +5,7 @@ package ivs
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/ivs/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/ivs/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

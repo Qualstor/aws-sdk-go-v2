@@ -5,7 +5,7 @@ package auditmanager
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/auditmanager/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/auditmanager/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )
