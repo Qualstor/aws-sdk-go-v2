@@ -3,7 +3,7 @@ package awsutil_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go-v2/internal/awsutil"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awsutil"
 	"github.com/aws/smithy-go/ptr"
 )
 

@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	v4Internal "github.com/aws/aws-sdk-go-v2/aws/signer/internal/v4"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	v4Internal "github.com/Qualstor/aws-sdk-go-v2/aws/signer/internal/v4"
 	"github.com/google/go-cmp/cmp"
 )
 
