@@ -1,7 +1,7 @@
 module github.com/Qualstor/aws-sdk-go-v2/service/internal/integrationtest
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.5
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
 	github.com/Qualstor/aws-sdk-go-v2/config v1.15.11
 	github.com/Qualstor/aws-sdk-go-v2/service/acm v1.14.6
 	github.com/Qualstor/aws-sdk-go-v2/service/apigateway v1.15.7
