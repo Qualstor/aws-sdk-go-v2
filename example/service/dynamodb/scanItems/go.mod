@@ -3,8 +3,8 @@ module github.com/Qualstor/aws-sdk-go-v2/example/service/dynamodb/listItems
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
-	github.com/Qualstor/aws-sdk-go-v2/config v1.15.11
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.16
+	github.com/Qualstor/aws-sdk-go-v2/config v1.15.16
 	github.com/Qualstor/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.9.3
 	github.com/Qualstor/aws-sdk-go-v2/service/dynamodb v1.15.6
 )
