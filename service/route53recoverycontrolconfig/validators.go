@@ -5,7 +5,7 @@ package route53recoverycontrolconfig
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/route53recoverycontrolconfig/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/route53recoverycontrolconfig/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

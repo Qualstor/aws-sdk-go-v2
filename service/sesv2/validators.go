@@ -5,7 +5,7 @@ package sesv2
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/sesv2/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/sesv2/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

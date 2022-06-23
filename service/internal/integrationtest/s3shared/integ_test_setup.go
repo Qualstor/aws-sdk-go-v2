@@ -7,10 +7,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/aws/aws-sdk-go-v2/service/internal/integrationtest"
-	"github.com/aws/aws-sdk-go-v2/service/s3"
-	"github.com/aws/aws-sdk-go-v2/service/s3/types"
-	"github.com/aws/aws-sdk-go-v2/service/s3control"
+	"github.com/Qualstor/aws-sdk-go-v2/service/internal/integrationtest"
+	"github.com/Qualstor/aws-sdk-go-v2/service/s3"
+	"github.com/Qualstor/aws-sdk-go-v2/service/s3/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/s3control"
 )
 
 // BucketPrefix is the root prefix of integration test buckets.
