@@ -3,7 +3,7 @@ module github.com/Qualstor/aws-sdk-go-v2/service/dynamodb
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.5
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.14
 	github.com/Qualstor/aws-sdk-go-v2/internal/configsources v1.1.12
 	github.com/Qualstor/aws-sdk-go-v2/internal/endpoints/v2 v2.4.6
 	github.com/Qualstor/aws-sdk-go-v2/service/internal/accept-encoding v1.9.2

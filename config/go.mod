@@ -3,7 +3,7 @@ module github.com/Qualstor/aws-sdk-go-v2/config
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.5
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.14
 	github.com/Qualstor/aws-sdk-go-v2/credentials v1.12.6
 	github.com/Qualstor/aws-sdk-go-v2/feature/ec2/imds v1.12.6
 	github.com/Qualstor/aws-sdk-go-v2/internal/ini v1.3.13
