@@ -4,7 +4,7 @@ package types_test
 
 import (
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/dynamodbstreams/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/dynamodbstreams/types"
 )
 
 func ExampleAttributeValue_outputUsage() {

@@ -5,10 +5,10 @@ package timestreamquery
 import (
 	"context"
 	"fmt"
-	awsmiddleware "github.com/aws/aws-sdk-go-v2/aws/middleware"
-	"github.com/aws/aws-sdk-go-v2/aws/signer/v4"
-	internalEndpointDiscovery "github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery"
-	"github.com/aws/aws-sdk-go-v2/service/timestreamquery/types"
+	awsmiddleware "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
+	"github.com/Qualstor/aws-sdk-go-v2/aws/signer/v4"
+	internalEndpointDiscovery "github.com/Qualstor/aws-sdk-go-v2/service/internal/endpoint-discovery"
+	"github.com/Qualstor/aws-sdk-go-v2/service/timestreamquery/types"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )

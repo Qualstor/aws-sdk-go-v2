@@ -5,7 +5,7 @@ package iotanalytics
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/iotanalytics/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/iotanalytics/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

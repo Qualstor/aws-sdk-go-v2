@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/aws/middleware"
-	"github.com/aws/aws-sdk-go-v2/internal/rand"
-	"github.com/aws/aws-sdk-go-v2/internal/sdk"
+	"github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/rand"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/sdk"
 	smithymiddleware "github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )
