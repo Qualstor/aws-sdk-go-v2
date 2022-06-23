@@ -5,8 +5,8 @@ package ec2query
 import (
 	"bytes"
 	"context"
-	"github.com/aws/aws-sdk-go-v2/aws"
-	awshttp "github.com/aws/aws-sdk-go-v2/aws/transport/http"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	awshttp "github.com/Qualstor/aws-sdk-go-v2/aws/transport/http"
 	"github.com/aws/smithy-go/middleware"
 	smithyrand "github.com/aws/smithy-go/rand"
 	smithytesting "github.com/aws/smithy-go/testing"

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/internal/sdk"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/sdk"
 )
 
 // AnonymousCredentials provides a sentinel CredentialsProvider that should be

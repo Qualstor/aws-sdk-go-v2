@@ -9,10 +9,10 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting/unit"
-	"github.com/aws/aws-sdk-go-v2/service/s3"
-	s3types "github.com/aws/aws-sdk-go-v2/service/s3/types"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting/unit"
+	"github.com/Qualstor/aws-sdk-go-v2/service/s3"
+	s3types "github.com/Qualstor/aws-sdk-go-v2/service/s3/types"
 )
 
 func TestPutObject_PresignURL(t *testing.T) {

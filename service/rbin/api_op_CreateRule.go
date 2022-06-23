@@ -4,9 +4,9 @@ package rbin
 
 import (
 	"context"
-	awsmiddleware "github.com/aws/aws-sdk-go-v2/aws/middleware"
-	"github.com/aws/aws-sdk-go-v2/aws/signer/v4"
-	"github.com/aws/aws-sdk-go-v2/service/rbin/types"
+	awsmiddleware "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
+	"github.com/Qualstor/aws-sdk-go-v2/aws/signer/v4"
+	"github.com/Qualstor/aws-sdk-go-v2/service/rbin/types"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )
