@@ -9,11 +9,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/service/docdb"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/service/docdb"
 	"github.com/aws/smithy-go"
 
-	"github.com/aws/aws-sdk-go-v2/service/internal/integrationtest"
+	"github.com/Qualstor/aws-sdk-go-v2/service/internal/integrationtest"
 )
 
 func TestInteg_00_DescribeDBEngineVersions(t *testing.T) {

@@ -4,10 +4,10 @@ package route53
 
 import (
 	"context"
-	awsmiddleware "github.com/aws/aws-sdk-go-v2/aws/middleware"
-	"github.com/aws/aws-sdk-go-v2/aws/signer/v4"
-	route53cust "github.com/aws/aws-sdk-go-v2/service/route53/internal/customizations"
-	"github.com/aws/aws-sdk-go-v2/service/route53/types"
+	awsmiddleware "github.com/Qualstor/aws-sdk-go-v2/aws/middleware"
+	"github.com/Qualstor/aws-sdk-go-v2/aws/signer/v4"
+	route53cust "github.com/Qualstor/aws-sdk-go-v2/service/route53/internal/customizations"
+	"github.com/Qualstor/aws-sdk-go-v2/service/route53/types"
 	"github.com/aws/smithy-go/middleware"
 	smithyhttp "github.com/aws/smithy-go/transport/http"
 )

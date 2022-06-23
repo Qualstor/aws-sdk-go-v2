@@ -9,11 +9,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/service/configservice"
-	"github.com/aws/aws-sdk-go-v2/service/configservice/types"
+	"github.com/Qualstor/aws-sdk-go-v2/aws"
+	"github.com/Qualstor/aws-sdk-go-v2/service/configservice"
+	"github.com/Qualstor/aws-sdk-go-v2/service/configservice/types"
 
-	"github.com/aws/aws-sdk-go-v2/service/internal/integrationtest"
+	"github.com/Qualstor/aws-sdk-go-v2/service/internal/integrationtest"
 	"github.com/aws/smithy-go"
 )
 

@@ -5,7 +5,7 @@ package dataexchange
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/dataexchange/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/dataexchange/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

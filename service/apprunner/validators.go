@@ -5,7 +5,7 @@ package apprunner
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/apprunner/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/apprunner/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

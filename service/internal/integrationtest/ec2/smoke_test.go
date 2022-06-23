@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go-v2/service/ec2"
+	"github.com/Qualstor/aws-sdk-go-v2/service/ec2"
 	"github.com/aws/smithy-go"
 
-	"github.com/aws/aws-sdk-go-v2/service/internal/integrationtest"
+	"github.com/Qualstor/aws-sdk-go-v2/service/internal/integrationtest"
 )
 
 func TestInteg_00_DescribeRegions(t *testing.T) {

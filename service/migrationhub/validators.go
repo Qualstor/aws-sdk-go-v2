@@ -5,7 +5,7 @@ package migrationhub
 import (
 	"context"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/migrationhub/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/migrationhub/types"
 	smithy "github.com/aws/smithy-go"
 	"github.com/aws/smithy-go/middleware"
 )

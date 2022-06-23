@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/aws/aws-sdk-go-v2/internal/awstesting"
+	"github.com/Qualstor/aws-sdk-go-v2/internal/awstesting"
 )
 
 func setupEnvForProcesscredsConfigFile() {

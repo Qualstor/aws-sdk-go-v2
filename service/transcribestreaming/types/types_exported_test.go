@@ -4,7 +4,7 @@ package types_test
 
 import (
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/transcribestreaming/types"
+	"github.com/Qualstor/aws-sdk-go-v2/service/transcribestreaming/types"
 )
 
 func ExampleAudioStream_outputUsage() {
