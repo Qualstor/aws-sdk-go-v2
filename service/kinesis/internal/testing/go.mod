@@ -3,8 +3,8 @@ module github.com/Qualstor/aws-sdk-go-v2/service/kinesis/internal/testing
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
-	github.com/Qualstor/aws-sdk-go-v2/aws/protocol/eventstream v1.4.2
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.16
+	github.com/Qualstor/aws-sdk-go-v2/aws/protocol/eventstream v1.4.5
 	github.com/Qualstor/aws-sdk-go-v2/service/internal/eventstreamtesting v1.0.18
 	github.com/Qualstor/aws-sdk-go-v2/service/kinesis v1.15.7
 	github.com/aws/smithy-go v1.11.3
