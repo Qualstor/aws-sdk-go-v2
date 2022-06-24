@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d6535b2-c286-4006-8fe6-7a335dca4ede" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/config/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/credentials/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/credentials/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/service/dynamodb/createTable/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/example/service/dynamodb/createTable/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/service/dynamodb/scanItems/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/example/service/dynamodb/scanItems/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/service/s3/listObjects/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/example/service/s3/listObjects/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/service/s3/usingPrivateLink/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/example/service/s3/usingPrivateLink/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feature/cloudfront/sign/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/feature/cloudfront/sign/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feature/dynamodb/attributevalue/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/feature/dynamodb/attributevalue/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feature/dynamodb/expression/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/feature/dynamodb/expression/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feature/dynamodbstreams/attributevalue/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/feature/dynamodbstreams/attributevalue/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feature/ec2/imds/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/feature/ec2/imds/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/ec2/imds/internal/configtesting/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/feature/ec2/imds/internal/configtesting/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feature/rds/auth/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/feature/rds/auth/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feature/s3/manager/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/feature/s3/manager/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/configsources/configtesting/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/internal/configsources/configtesting/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/configsources/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/internal/configsources/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/endpoints/v2/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/internal/endpoints/v2/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/ini/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ini/go.mod" afterDir="false" />
@@ -282,6 +285,7 @@
       <change beforePath="$PROJECT_DIR$/service/route53resolver/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/service/route53resolver/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/rum/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/service/rum/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/s3/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/service/s3/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/s3/internal/configtesting/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/service/s3/internal/configtesting/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/s3control/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/service/s3control/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/s3outposts/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/service/s3outposts/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/sagemaker/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/service/sagemaker/go.mod" afterDir="false" />
