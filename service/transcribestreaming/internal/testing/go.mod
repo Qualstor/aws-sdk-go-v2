@@ -3,8 +3,8 @@ module github.com/Qualstor/aws-sdk-go-v2/service/transcribestreaming/internal/te
 go 1.15
 
 require (
-	github.com/Qualstor/aws-sdk-go-v2 v1.16.15
-	github.com/Qualstor/aws-sdk-go-v2/aws/protocol/eventstream v1.4.4
+	github.com/Qualstor/aws-sdk-go-v2 v1.16.16
+	github.com/Qualstor/aws-sdk-go-v2/aws/protocol/eventstream v1.4.5
 	github.com/Qualstor/aws-sdk-go-v2/service/internal/eventstreamtesting v1.0.19
 	github.com/Qualstor/aws-sdk-go-v2/service/transcribestreaming v1.6.8
 	github.com/aws/smithy-go v1.11.3
